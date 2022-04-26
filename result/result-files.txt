@@ -1,0 +1,4 @@
+
+https://itax.kra.go.ke/favicon.ico
+https://itax.kra.go.ke/KRA-Portal//%00
+https://itax.kra.go.ke/KRA-Portal//config.php
